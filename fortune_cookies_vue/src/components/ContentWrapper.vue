@@ -8,11 +8,11 @@
   <style scoped>
   
    .item {
-    background-color: var(--main-wrapper-color);
+    /* background-color: var(--main-wrapper-color);
     min-height: 100%;
     margin: 2rem;
     display: flex;
-    position: relative;
+    position: relative; */
   } 
   
   /* @media (min-width: 1024px) {

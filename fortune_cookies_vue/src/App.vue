@@ -15,7 +15,7 @@ import ContentWrapper from './components/ContentWrapper.vue'
 
   <main>
     <!-- <TheWelcome /> -->
-    <ContentWrapper />
+    <!-- <ContentWrapper /> -->
   </main>
 </template>
 
